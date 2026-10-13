@@ -1,0 +1,10 @@
+# Environment secrets
+.env
+
+# Python & pytest caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+reports/
+*.html
